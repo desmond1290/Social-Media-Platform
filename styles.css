@@ -1,0 +1,62 @@
+ul{
+font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+body{ background-image: url(https://blog2.drumup.io/wp-content/uploads/2015/04/Social-media-communication.png);
+}
+
+ div{ font-family: 'Amatic SC', cursive; 
+}
+h1{font-family: 'Roboto Condensed', sans-serif;}
+
+img {
+  border: 5px solid #555;
+   
+}
+
+#myimage {
+    width: 400px;
+    height: 300px;
+}
+
+a { 
+font-weight: bold; 
+background-color: lightblue; 
+display:inline-block; 
+height:70px; 
+width:80px; 
+text-decoration:none;
+}
+
+
+
+
+
+
+
+
+grid-item1 {
+  background-color: green;
+  opacity: 0.3;
+}
+
+
+img {
+  height: 400px;
+  width: 50%;
+  background-color: powderblue;
+}
+   
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+.grid-item1{
+   display: flex;
+justify-content: space-around;   
+}
+
+
